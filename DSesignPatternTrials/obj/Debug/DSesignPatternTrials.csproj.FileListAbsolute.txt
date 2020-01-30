@@ -1,0 +1,6 @@
+C:\Users\GT910564\source\repos\DSesignPatternTrials\DSesignPatternTrials\bin\Debug\DSesignPatternTrials.exe.config
+C:\Users\GT910564\source\repos\DSesignPatternTrials\DSesignPatternTrials\bin\Debug\DSesignPatternTrials.exe
+C:\Users\GT910564\source\repos\DSesignPatternTrials\DSesignPatternTrials\bin\Debug\DSesignPatternTrials.pdb
+C:\Users\GT910564\source\repos\DSesignPatternTrials\DSesignPatternTrials\obj\Debug\DSesignPatternTrials.csprojAssemblyReference.cache
+C:\Users\GT910564\source\repos\DSesignPatternTrials\DSesignPatternTrials\obj\Debug\DSesignPatternTrials.exe
+C:\Users\GT910564\source\repos\DSesignPatternTrials\DSesignPatternTrials\obj\Debug\DSesignPatternTrials.pdb

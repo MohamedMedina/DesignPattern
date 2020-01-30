@@ -1,0 +1,6 @@
+C:\Users\GT910564\source\repos\DSesignPatternTrials\SingeltonDesignPattern\bin\Debug\SingeltonDesignPattern.exe.config
+C:\Users\GT910564\source\repos\DSesignPatternTrials\SingeltonDesignPattern\bin\Debug\SingeltonDesignPattern.exe
+C:\Users\GT910564\source\repos\DSesignPatternTrials\SingeltonDesignPattern\bin\Debug\SingeltonDesignPattern.pdb
+C:\Users\GT910564\source\repos\DSesignPatternTrials\SingeltonDesignPattern\obj\Debug\SingeltonDesignPattern.csprojAssemblyReference.cache
+C:\Users\GT910564\source\repos\DSesignPatternTrials\SingeltonDesignPattern\obj\Debug\SingeltonDesignPattern.exe
+C:\Users\GT910564\source\repos\DSesignPatternTrials\SingeltonDesignPattern\obj\Debug\SingeltonDesignPattern.pdb

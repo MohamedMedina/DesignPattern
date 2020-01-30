@@ -1,0 +1,6 @@
+C:\Users\GT910564\source\repos\DSesignPatternTrials\FacadePttern\bin\Debug\FacadePttern.exe.config
+C:\Users\GT910564\source\repos\DSesignPatternTrials\FacadePttern\bin\Debug\FacadePttern.exe
+C:\Users\GT910564\source\repos\DSesignPatternTrials\FacadePttern\bin\Debug\FacadePttern.pdb
+C:\Users\GT910564\source\repos\DSesignPatternTrials\FacadePttern\obj\Debug\FacadeDesignPattern.csprojAssemblyReference.cache
+C:\Users\GT910564\source\repos\DSesignPatternTrials\FacadePttern\obj\Debug\FacadePttern.exe
+C:\Users\GT910564\source\repos\DSesignPatternTrials\FacadePttern\obj\Debug\FacadePttern.pdb

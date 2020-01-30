@@ -1,0 +1,6 @@
+C:\Users\GT910564\source\repos\DSesignPatternTrials\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.exe.config
+C:\Users\GT910564\source\repos\DSesignPatternTrials\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.exe
+C:\Users\GT910564\source\repos\DSesignPatternTrials\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.pdb
+C:\Users\GT910564\source\repos\DSesignPatternTrials\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.csprojAssemblyReference.cache
+C:\Users\GT910564\source\repos\DSesignPatternTrials\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.exe
+C:\Users\GT910564\source\repos\DSesignPatternTrials\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.pdb
